@@ -1,0 +1,1000 @@
+1. file_id
+ * manufacturer: specialized
+ * product_name: WSBC004419186R
+ * time_created: 2022-06-05 19:20:21
+ * type: activity
+
+2. file_creator
+ * software_version: 1
+
+3. device_info
+ * manufacturer: specialized
+ * timestamp: 2022-06-05 19:20:21
+
+4. developer_data_id
+ * developer_data_index: 0
+
+5. field_description
+ * developer_data_index: 0
+ * field_definition_number: 0
+ * field_name: noOfSatelites
+ * fit_base_type_id: uint8
+ * units: N/A
+
+6. field_description
+ * developer_data_index: 0
+ * field_definition_number: 1
+ * field_name: curProfileScale
+ * fit_base_type_id: uint8
+ * units: %
+
+7. field_description
+ * developer_data_index: 0
+ * field_definition_number: 2
+ * field_name: curCurrentScale
+ * fit_base_type_id: uint8
+ * units: %
+
+8. field_description
+ * developer_data_index: 0
+ * field_definition_number: 3
+ * field_name: motorTemp
+ * fit_base_type_id: uint8
+ * units: C
+
+9. field_description
+ * developer_data_index: 0
+ * field_definition_number: 4
+ * field_name: batCurrCap1
+ * fit_base_type_id: uint16
+ * units: Wh
+
+10. field_description
+ * developer_data_index: 0
+ * field_definition_number: 5
+ * field_name: batCurrCap2
+ * fit_base_type_id: uint16
+ * units: Wh
+
+11. field_description
+ * developer_data_index: 0
+ * field_definition_number: 6
+ * field_name: currAssist
+ * fit_base_type_id: uint16
+ * units: N/A
+
+12. field_description
+ * developer_data_index: 0
+ * field_definition_number: 7
+ * field_name: currBattery
+ * fit_base_type_id: uint8
+ * units: %
+
+13. field_description
+ * developer_data_index: 0
+ * field_definition_number: 8
+ * field_name: currBattery2
+ * fit_base_type_id: uint8
+ * units: %
+
+14. field_description
+ * developer_data_index: 0
+ * field_definition_number: 9
+ * field_name: rideType
+ * fit_base_type_id: uint8
+ * units: N/A
+
+15. field_description
+ * developer_data_index: 0
+ * field_definition_number: 10
+ * field_name: recInterval
+ * fit_base_type_id: uint8
+ * units: s
+
+16. field_description
+ * developer_data_index: 0
+ * field_definition_number: 11
+ * field_name: heartRateThreshold
+ * fit_base_type_id: uint8
+ * units: bpm
+
+17. field_description
+ * developer_data_index: 0
+ * field_definition_number: 12
+ * field_name: estBattery
+ * fit_base_type_id: sint16
+ * units: %
+
+18. record
+ * recInterval: 1 [s]
+ * timestamp: 2022-06-05 19:20:21
+
+19. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.0 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.0 [km/h]
+ * enhanced_speed: 0.0 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 22 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988996563479304 [deg]
+ * position_long: -123.04698463529348 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.0 [km/h]
+ * timestamp: 2022-06-05 19:20:21
+
+20. record
+ * altitude: 793.5999999999999 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.0 [km]
+ * enhanced_altitude: 793.5999999999999 [m]
+ * enhanced_altitude: 793.5999999999999 [m]
+ * enhanced_speed: 0.0 [km/h]
+ * enhanced_speed: 0.0 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 22 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98899539001286 [deg]
+ * position_long: -123.04697625339031 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.0 [km/h]
+ * timestamp: 2022-06-05 19:20:22
+
+21. record
+ * altitude: 774.5999999999999 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.002 [km]
+ * enhanced_altitude: 774.5999999999999 [m]
+ * enhanced_altitude: 774.5999999999999 [m]
+ * enhanced_speed: 2.502 [km/h]
+ * enhanced_speed: 2.502 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988994635641575 [deg]
+ * position_long: -123.04697281681001 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 2.502 [km/h]
+ * timestamp: 2022-06-05 19:22:55
+
+22. record
+ * altitude: 774.5999999999999 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.003 [km]
+ * enhanced_altitude: 774.5999999999999 [m]
+ * enhanced_altitude: 774.5999999999999 [m]
+ * enhanced_speed: 1.9008 [km/h]
+ * enhanced_speed: 1.9008 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988994635641575 [deg]
+ * position_long: -123.04697281681001 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.9008 [km/h]
+ * timestamp: 2022-06-05 19:22:56
+
+23. record
+ * altitude: 794.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.004 [km]
+ * enhanced_altitude: 794.0 [m]
+ * enhanced_altitude: 794.0 [m]
+ * enhanced_speed: 1.5011999999999999 [km/h]
+ * enhanced_speed: 1.5011999999999999 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988998575136065 [deg]
+ * position_long: -123.04713257588446 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.5011999999999999 [km/h]
+ * timestamp: 2022-06-05 19:22:57
+
+24. record
+ * altitude: 794.2 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.004 [km]
+ * enhanced_altitude: 794.2 [m]
+ * enhanced_altitude: 794.2 [m]
+ * enhanced_speed: 1.2996 [km/h]
+ * enhanced_speed: 1.2996 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988970663398504 [deg]
+ * position_long: -123.0470906663686 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.2996 [km/h]
+ * timestamp: 2022-06-05 19:22:58
+
+25. record
+ * altitude: 794.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.004 [km]
+ * enhanced_altitude: 794.0 [m]
+ * enhanced_altitude: 794.0 [m]
+ * enhanced_speed: 1.1016 [km/h]
+ * enhanced_speed: 1.1016 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988987343385816 [deg]
+ * position_long: -123.04705730639398 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.1016 [km/h]
+ * timestamp: 2022-06-05 19:22:59
+
+26. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.005 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.9 [km/h]
+ * enhanced_speed: 0.9 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.988998407498 [deg]
+ * position_long: -123.04702914319932 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.9 [km/h]
+ * timestamp: 2022-06-05 19:23:00
+
+27. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.005 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.7992 [km/h]
+ * enhanced_speed: 0.7992 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98900469392538 [deg]
+ * position_long: -123.04705915041268 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.7992 [km/h]
+ * timestamp: 2022-06-05 19:23:01
+
+28. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.005 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.7020000000000001 [km/h]
+ * enhanced_speed: 0.7020000000000001 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989007795229554 [deg]
+ * position_long: -123.0470734834671 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.7020000000000001 [km/h]
+ * timestamp: 2022-06-05 19:23:02
+
+29. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.005 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.7020000000000001 [km/h]
+ * enhanced_speed: 0.7020000000000001 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989008968696 [deg]
+ * position_long: -123.0470959469676 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.7020000000000001 [km/h]
+ * timestamp: 2022-06-05 19:23:03
+
+30. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.6012000000000001 [km/h]
+ * enhanced_speed: 0.6012000000000001 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98900519683957 [deg]
+ * position_long: -123.04711036384106 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.6012000000000001 [km/h]
+ * timestamp: 2022-06-05 19:23:04
+
+31. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.6012000000000001 [km/h]
+ * enhanced_speed: 0.6012000000000001 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98900402337313 [deg]
+ * position_long: -123.0471200030297 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.6012000000000001 [km/h]
+ * timestamp: 2022-06-05 19:23:05
+
+32. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.5004000000000001 [km/h]
+ * enhanced_speed: 0.5004000000000001 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989002933725715 [deg]
+ * position_long: -123.04712612181902 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.5004000000000001 [km/h]
+ * timestamp: 2022-06-05 19:23:06
+
+33. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.5004000000000001 [km/h]
+ * enhanced_speed: 0.5004000000000001 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989001927897334 [deg]
+ * position_long: -123.04712989367545 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.5004000000000001 [km/h]
+ * timestamp: 2022-06-05 19:23:07
+
+34. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.0 [km/h]
+ * enhanced_speed: 0.0 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98900033533573 [deg]
+ * position_long: -123.04712813347578 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.0 [km/h]
+ * timestamp: 2022-06-05 19:23:08
+
+35. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.0 [km/h]
+ * enhanced_speed: 0.0 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98899488709867 [deg]
+ * position_long: -123.04713182151318 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.0 [km/h]
+ * timestamp: 2022-06-05 19:23:09
+
+36. record
+ * altitude: 793.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.006 [km]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_altitude: 793.8 [m]
+ * enhanced_speed: 0.0 [km/h]
+ * enhanced_speed: 0.0 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98898960649967 [deg]
+ * position_long: -123.04713307879865 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 0.0 [km/h]
+ * timestamp: 2022-06-05 19:23:10
+
+37. record
+ * altitude: 787.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.008 [km]
+ * enhanced_altitude: 787.0 [m]
+ * enhanced_altitude: 787.0 [m]
+ * enhanced_speed: 3.8016 [km/h]
+ * enhanced_speed: 3.8016 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.9889830686152 [deg]
+ * position_long: -123.04713182151318 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 3.8016 [km/h]
+ * timestamp: 2022-06-05 19:23:18
+
+38. record
+ * altitude: 787.4000000000001 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.009 [km]
+ * enhanced_altitude: 787.4000000000001 [m]
+ * enhanced_altitude: 787.4000000000001 [m]
+ * enhanced_speed: 3.8016 [km/h]
+ * enhanced_speed: 3.8016 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.9889727588743 [deg]
+ * position_long: -123.04713131859899 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 3.8016 [km/h]
+ * timestamp: 2022-06-05 19:23:19
+
+39. record
+ * altitude: 787.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.01 [km]
+ * enhanced_altitude: 787.8 [m]
+ * enhanced_altitude: 787.8 [m]
+ * enhanced_speed: 2.6028 [km/h]
+ * enhanced_speed: 2.6028 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.9889968149364 [deg]
+ * position_long: -123.04716157726943 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 2.6028 [km/h]
+ * timestamp: 2022-06-05 19:23:20
+
+40. record
+ * altitude: 788.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.011 [km]
+ * enhanced_altitude: 788.0 [m]
+ * enhanced_altitude: 788.0 [m]
+ * enhanced_speed: 1.9008 [km/h]
+ * enhanced_speed: 1.9008 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98901919461787 [deg]
+ * position_long: -123.04719401523471 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.9008 [km/h]
+ * timestamp: 2022-06-05 19:23:21
+
+41. record
+ * altitude: 788.4000000000001 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 7 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.012 [km]
+ * enhanced_altitude: 788.4000000000001 [m]
+ * enhanced_altitude: 788.4000000000001 [m]
+ * enhanced_speed: 1.602 [km/h]
+ * enhanced_speed: 1.602 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989025983959436 [deg]
+ * position_long: -123.04716534912586 [deg]
+ * power: 1 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.602 [km/h]
+ * timestamp: 2022-06-05 19:23:22
+
+42. record
+ * altitude: 788.5999999999999 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 8 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.012 [km]
+ * enhanced_altitude: 788.5999999999999 [m]
+ * enhanced_altitude: 788.5999999999999 [m]
+ * enhanced_speed: 1.602 [km/h]
+ * enhanced_speed: 1.602 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.9890314321965 [deg]
+ * position_long: -123.04717255756259 [deg]
+ * power: 6 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.602 [km/h]
+ * timestamp: 2022-06-05 19:23:23
+
+43. record
+ * altitude: 789.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 0 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.012 [km]
+ * enhanced_altitude: 789.0 [m]
+ * enhanced_altitude: 789.0 [m]
+ * enhanced_speed: 1.602 [km/h]
+ * enhanced_speed: 1.602 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98903260566294 [deg]
+ * position_long: -123.047184208408 [deg]
+ * power: 0 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.602 [km/h]
+ * timestamp: 2022-06-05 19:23:24
+
+44. record
+ * altitude: 789.2 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 11 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.013 [km]
+ * enhanced_altitude: 789.2 [m]
+ * enhanced_altitude: 789.2 [m]
+ * enhanced_speed: 1.602 [km/h]
+ * enhanced_speed: 1.602 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 0 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98903092928231 [deg]
+ * position_long: -123.04718831554055 [deg]
+ * power: 61 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 1.602 [km/h]
+ * timestamp: 2022-06-05 19:23:25
+
+45. record
+ * altitude: 789.4000000000001 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 19 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.013 [km]
+ * enhanced_altitude: 789.4000000000001 [m]
+ * enhanced_altitude: 789.4000000000001 [m]
+ * enhanced_speed: 2.2032 [km/h]
+ * enhanced_speed: 2.2032 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 23 [C]
+ * motor_power: 107 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.98902992345393 [deg]
+ * position_long: -123.04719862528145 [deg]
+ * power: 104 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 2.2032 [km/h]
+ * timestamp: 2022-06-05 19:23:26
+
+46. record
+ * altitude: 789.5999999999999 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 22 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.014 [km]
+ * enhanced_altitude: 789.5999999999999 [m]
+ * enhanced_altitude: 789.5999999999999 [m]
+ * enhanced_speed: 5.3028 [km/h]
+ * enhanced_speed: 5.3028 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 24 [C]
+ * motor_power: 127 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.9890295881778 [deg]
+ * position_long: -123.04722276516259 [deg]
+ * power: 132 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 5.3028 [km/h]
+ * timestamp: 2022-06-05 19:23:27
+
+47. record
+ * altitude: 789.8 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 23 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.015 [km]
+ * enhanced_altitude: 789.8 [m]
+ * enhanced_altitude: 789.8 [m]
+ * enhanced_speed: 5.3028 [km/h]
+ * enhanced_speed: 5.3028 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 24 [C]
+ * motor_power: 118 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989033192396164 [deg]
+ * position_long: -123.04724900051951 [deg]
+ * power: 110 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 5.3028 [km/h]
+ * timestamp: 2022-06-05 19:23:28
+
+48. record
+ * altitude: 790.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 24 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.016 [km]
+ * enhanced_altitude: 790.0 [m]
+ * enhanced_altitude: 790.0 [m]
+ * enhanced_speed: 6.303599999999999 [km/h]
+ * enhanced_speed: 6.303599999999999 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 25 [C]
+ * motor_power: 144 [watts]
+ * noOfSatelites: 0 [N/A]
+ * position_lat: 54.989040568470955 [deg]
+ * position_long: -123.04727481678128 [deg]
+ * power: 66 [watts]
+ * recInterval: 1 [s]
+ * rideType: 0 [N/A]
+ * speed: 6.303599999999999 [km/h]
+ * timestamp: 2022-06-05 19:23:29
+
+49. record
+ * altitude: 790.0 [m]
+ * batCurrCap1: 333 [Wh]
+ * batCurrCap2: 0 [Wh]
+ * cadence: 16 [rpm]
+ * curCurrentScale: 100 [%]
+ * curProfileScale: 40 [%]
+ * currAssist: 2 [N/A]
+ * currBattery: 100 [%]
+ * currBattery2: 0 [%]
+ * distance: 0.018 [km]
+ * enhanced_altitude: 790.0 [m]
+ * enhanced_altitude: 790.0 [m]
+ * enhanced_speed: 7.3044 [km/h]
+ * enhanced_speed: 7.3044 [km/h]
+ * estBattery: 0 [%]
+ * heartRateThreshold: 0 [bpm]
+ * heart_rate: 0 [bpm]
+ * motorTemp: 25 [C]

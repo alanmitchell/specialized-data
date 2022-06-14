@@ -24,7 +24,7 @@ for fp in files:
     rec['mi/kWh'] = rec['miles'] / (rec['bat_Wh']/1000)
     rec['power'] = dfp.power
     rec['motor_power'] = dfp.motor_power
-    rec['support'] = rec['motor_power'] / rec['power']
+    rec['support'] = df.motor_power.sum() / df.power.sum()
     rec['cadence'] =df.query('cadence >=60').mean()['cadence']
 
     # calc elevation gained, and elevation gained per mile.

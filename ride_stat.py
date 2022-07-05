@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from pathlib import Path
 import pandas as pd
+import math
 from parse_fit import parse
 
 data_dir = Path.home() / Path('gdrive/Recreation/bike/fit-data/')
@@ -21,7 +22,7 @@ for fp in files:
     rec['miles'] = df.distance.max() * 0.6214 / 1000
     rec['bat_Wh'] = df.batCurrCap1.max() - df.batCurrCap1.min()
     rec['me_Wh'] = df.power.sum() / 3600.0
-    rec['mi/kWh'] = rec['miles'] / (rec['bat_Wh']/1000)
+    rec['mi/kWh'] = rec['miles'] / (rec['bat_Wh']/1000) if rec['bat_Wh'] != 0 else math.nan
     rec['power'] = dfp.power
     rec['motor_power'] = dfp.motor_power
     rec['support'] = df.motor_power.sum() / df.power.sum()

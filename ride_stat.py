@@ -27,6 +27,7 @@ for fp in files:
     rec['motor_power'] = dfp.motor_power
     rec['support'] = df.motor_power.sum() / df.power.sum()
     rec['cadence'] =df.query('cadence >=60').mean()['cadence']
+    rec['motorTemp'] = df.motorTemp.max()
 
     # calc elevation gained, and elevation gained per mile.
     alt_chg = df.altitude.diff()

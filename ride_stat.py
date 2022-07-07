@@ -17,6 +17,7 @@ files.sort()
 for fp in files:
     rec = {}    
     df = pd.read_csv(fp)
+    df = df[['power', 'distance', 'batCurrCap1', 'motor_power', 'cadence', 'motorTemp', 'altitude', 'speed']]
     dfp = df.query('power > 0').mean()
     rec['file'] = fp.stem
     rec['miles'] = df.distance.max() * 0.6214 / 1000
@@ -26,7 +27,7 @@ for fp in files:
     rec['power'] = dfp.power
     rec['motor_power'] = dfp.motor_power
     rec['support'] = df.motor_power.sum() / df.power.sum()
-    rec['cadence'] =df.query('cadence >=60').mean()['cadence']
+    rec['cadence'] =df.query('cadence >=60').cadence.mean()
     rec['motorTemp'] = df.motorTemp.max()
 
     # calc elevation gained, and elevation gained per mile.
@@ -36,10 +37,14 @@ for fp in files:
 
     # hours moving
     rec['hours'] = len(df.query('speed > 0')) / 3600.0
+
+    # speed info
+    rec['speed_avg'] = df.query('speed > 0').speed.mean() * 2.257      # weird speed scale
+    rec['speed_max'] = df.speed.max() * 2.257
     results.append(rec)
 
 df_results = pd.DataFrame(results)
 print(df_results)
 print('\nAverage Results:')
-print(df_results.mean())
+print(df_results.drop(columns=['file']).mean())
 df_results.to_pickle('rides.pkl')

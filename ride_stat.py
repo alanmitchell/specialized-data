@@ -45,6 +45,6 @@ for fp in files:
 
 df_results = pd.DataFrame(results)
 print(df_results)
-print('\nAverage Results:')
-print(df_results.drop(columns=['file']).mean())
+print('\nMedian Results:')
+print(df_results.drop(columns=['file']).median())
 df_results.to_pickle('rides.pkl')
